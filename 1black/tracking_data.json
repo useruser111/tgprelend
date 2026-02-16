@@ -1,0 +1,55 @@
+{
+    "index.php": {
+        "page_visits": 5,
+        "button_clicks": 0,
+        "click_data": [
+            {
+                "ip_address": "178.20.209.35",
+                "country": "Germany",
+                "timestamp": "2025-01-02 16:31:52"
+            },
+            {
+                "ip_address": "178.20.209.35",
+                "country": "Germany",
+                "timestamp": "2025-01-02 16:32:21"
+            },
+            {
+                "ip_address": "178.20.209.35",
+                "country": "Germany",
+                "timestamp": "2025-01-02 16:33:20"
+            },
+            {
+                "ip_address": "178.20.209.35",
+                "country": "Germany",
+                "timestamp": "2025-01-02 16:35:04"
+            },
+            {
+                "ip_address": "178.20.209.35",
+                "country": "Germany",
+                "timestamp": "2025-01-02 16:36:36"
+            }
+        ]
+    },
+    "6776963d27524": {
+        "page_visits": 2,
+        "button_clicks": 1,
+        "click_data": [
+            {
+                "ip_address": "178.20.209.35",
+                "country": "Germany",
+                "timestamp": "2025-01-02 16:35:58"
+            },
+            {
+                "ip_address": "178.20.209.35",
+                "country": "Germany",
+                "timestamp": "2025-01-02 16:36:01"
+            },
+            {
+                "ip_address": "178.20.209.35",
+                "country": "Germany",
+                "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Safari\/537.36",
+                "timestamp": "2025-01-02 16:36:02"
+            }
+        ]
+    }
+}
